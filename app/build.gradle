@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.tes5'
+    namespace 'com.pokemons.tes5'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.tes5"
+        applicationId "com.pokemons.tes5"
         minSdk 26
         targetSdk 33
         versionCode 1

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.example.tes5.fragments.ListFragment"
+        android:name="com.pokemons.tes5.fragments.ListFragment"
         android:label="fragment_list"
         tools:layout="@layout/fragment_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/pokemonFragment"
-        android:name="com.example.tes5.fragments.PokemonFragment"
+        android:name="com.pokemons.tes5.fragments.PokemonFragment"
         android:label="fragment_pokemon"
         tools:layout="@layout/fragment_pokemon" >
         <argument android:name="name" />
